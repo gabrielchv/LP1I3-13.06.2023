@@ -25,3 +25,6 @@ Paciente: Paciente Alterado
 Médico: Dr. B
 
 Quantidade final de consultas: 2
+
+...Program finished with exit code 0
+Press ENTER to exit console.
