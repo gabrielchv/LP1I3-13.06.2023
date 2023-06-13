@@ -1,0 +1,27 @@
+Dados da consulta p1 (antes da alteração):
+Data: 25/6/2023
+Hora: 10:30:00
+Paciente: Paciente 1
+Médico: Dr. A
+Dia: 22
+Mes: 05
+Ano: 2023
+Hora: 14
+Minuto: 11
+Segundo: 2
+Nome do paciente: Gabriel
+Nome do médico: Carol
+
+Dados da consulta p2:
+Data: 22/5/2023
+Hora: 14:11:02
+Paciente: Gabriel
+Médico: Carol
+
+Dados da consulta p1 (após a alteração):
+Data: 26/6/2023
+Hora: 11:45:00
+Paciente: Paciente Alterado
+Médico: Dr. B
+
+Quantidade final de consultas: 2
