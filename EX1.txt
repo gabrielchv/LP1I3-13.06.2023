@@ -1,0 +1,57 @@
+Classe: Data 
+
+  
+
+Atributos: 
+
+- private int dia 
+
+- private int mes 
+
+- private int ano 
+
+- private String[] meses 
+
+- private Scanner pergunte 
+
+  
+
+Métodos: 
+
+- private int pergunteLimitado(int n1, int n2, String prompt) 
+
+- public void entraDia(int d) 
+
+- public void entraMes(int m) 
+
+- public void entraAno(int a) 
+
+- public void entraDia() 
+
+- public void entraMes() 
+
+- public void entraAno() 
+
+- public int retDia() 
+
+- public int retMes() 
+
+- public int retAno() 
+
+- public String mostra1() 
+
+- public String mostra2() 
+
+- public boolean bissexto() 
+
+- public int diasTranscorridos() 
+
+- public void apresentaDataAtual() 
+
+  
+
+Construtores: 
+
+- public Data() 
+
+- public Data(int d, int m, int a) 
